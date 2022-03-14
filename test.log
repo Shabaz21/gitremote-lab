@@ -1,2 +1,6 @@
 Created new file in feature branch
+<<<<<<< HEAD
 Added second line to test conflict reolution
+=======
+New changes added from remote
+>>>>>>> b73a2bb6ddefccc320bb02268f07bd91ff9dd821
